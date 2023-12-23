@@ -7,7 +7,11 @@
 - 🔭 I’m currently working as a TA at the University of Wollongong
 - 🌱 I’m in my 3rd year of CS specializing in CyberSecurity
 - 👯 I’m looking to collaborate on passion projects!
-- 📫 How to reach me: chibixryuu@gmail.com
+- 📫 How to reach me:
+
+     ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+     ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+  
 - 🧑🏾 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy using code to solve problems I encounter in my day-to-day life
 
