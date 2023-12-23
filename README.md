@@ -1,4 +1,4 @@
-# Hello, I'm Shiva Sathyadev, also known as Indy! 👋
+# Hello, I'm Shiva Sathyadev, aka Indy! 👋
 
 ![Banner](URL_TO_YOUR_BANNER_IMAGE)
 
