@@ -1,4 +1,4 @@
-# Hello, I'm Indy! 👋
+# Hello, I'm Shiva Sathyadev, also known as Indy! 👋
 
 ![Banner](URL_TO_YOUR_BANNER_IMAGE)
 
@@ -19,7 +19,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=flat-square&logo=mongodb)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Android App Development](https://img.shields.io/badge/-Android%20App%20Development-3DDC84?style=flat-square&logo=android)
+![Android](https://img.shields.io/badge/-Android%20App%20Development-3DDC84?style=flat-square&logo=android)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+
 
 🛠️ Tools:
 
@@ -28,10 +30,17 @@
 ![GPT-4](https://img.shields.io/badge/-GPT4-000000?style=flat-square&logo=openai)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+
 
 ## Current Projects
 
-- 📱 Android App to [describe your app briefly]
+- 📱 **Collectomon**: An android app that allows users to view and store information about Pokémon cards, focusing on illustratiors.
+- 🐍 **Timesheet Entry**: A Python program using Selenium to automate timesheet entries from a database.
+
 
 ## My Work
 
@@ -39,7 +48,7 @@
 
 ## Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-InProgress-blue)](YourLinkedInURL)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-InProgress-lightgrey)](YourPortfolioURL)
+- [![LinkedIn](Coming Soon!)
+- [![Portfolio](Coming Soon!)
 
 <!-- Customize your badges on https://shields.io/ and icons on https://simpleicons.org/ -->
