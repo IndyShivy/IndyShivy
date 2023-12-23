@@ -85,9 +85,10 @@
 
 ![Indy's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndyShivy&show_icons=true&theme=radical)
 
-## Let's Connect!
+## Let's Connect! (Coming Soon)
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) (Coming Soon!)
-- ![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white) (Coming Soon!)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 <!-- Customize your badges on https://shields.io/ and icons on https://simpleicons.org/ -->
