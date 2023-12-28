@@ -77,7 +77,7 @@
 
 ## Current Projects
 
-- 📱 **Collectomon**: An android app that allows users to view and store information about Pokémon cards, focusing on illustratiors.
+- 📱 **Collectomon**: An android app that allows users to view and store information about Pokémon cards, focusing on illustrators.
 - 🐍 **Timesheet Entry**: A Python program using Selenium to automate timesheet entries from a database.
 
 
