@@ -77,7 +77,7 @@
 
 ## Current Projects
 
-- 📱 **Collectomon(https://github.com/IndyShivy/CollectomonV2_Beta)**: An android app that allows users to view and store information about Pokémon cards, focusing on illustrators. 
+- 📱 [**Collectomon**](https://github.com/IndyShivy/CollectomonV2_Beta): An android app that allows users to view and store information about Pokémon cards, focusing on illustrators.
 - 🐍 **Timesheet Entry**: A Python program using Selenium to automate timesheet entries from a database.
 
 
