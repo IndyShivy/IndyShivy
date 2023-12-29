@@ -5,7 +5,7 @@
 ## 🧑🏾 About Me
 
 - 🔭 I’m currently working as a TA at the University of Wollongong
-- 🌱 I’m in my 3rd year of CS specializing in CyberSecurity
+- 🌱 I’m in my 3rd year of CS specialising in CyberSecurity
 - 👯 I’m looking to collaborate on passion projects!
 - 📫 How to reach me:
 
