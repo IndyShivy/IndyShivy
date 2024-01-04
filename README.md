@@ -14,7 +14,8 @@
  
 
 - 🧑🏾 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy using code to solve problems I encounter in my day-to-day life
+- ⚡ Fun fact: I enjoy using code to solve problems I encounter in my day-to-day life.
+- ⚡⚡ Funner fact : This means I spend weeks learning new concepts, ideas and fundamentals. So instead of spending 2 hours manually writing things down, I spend weeks iterating on an app instead.
 
 ## ⚙ Skills
 
