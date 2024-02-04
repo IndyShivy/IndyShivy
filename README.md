@@ -1,20 +1,10 @@
 # Hello, I'm Shiva Sathyadev, aka Indy! 👋
 
-## Current Projects
-
-- 📱🗄️ [**Collectomon**](https://github.com/IndyShivy/CollectomonV2_Beta): An android app that allows users to view and store information about Pokémon cards, focusing on illustrators.
-- 💻🐍 **Timesheet Entry**: A Python program using Selenium to automate timesheet entries from a database.
-- 📱⏰ [**Countdown**](https://github.com/IndyShivy/Countdown): An android app that allows users to create events and retrieve the time till the event as days, weeks, fortnights or months.
-
-<div>
-     <img src="images/indy_banner.png" alt="countdown_logo_v2" width="800dp" height="534dp"/>
-</div> 
-
 ## 🧑🏾 About Me
 
 - 🔭 I’m currently working as a TA at the University of Wollongong
 - 🌱 I’m in my 3rd year of CS specialising in CyberSecurity
-- 👯 I’m looking to collaborate on passion projects!
+- 💼 I enjoy pursuing passion projects!
 - 📫 How to reach me:
 
      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indyshivy@gmail.com)
@@ -23,7 +13,26 @@
 
 - 🧑🏾 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy using code to solve problems I encounter in my day-to-day life.
-- ⚡⚡ Funner fact : This means I spend weeks learning new concepts, ideas and fundamentals. So instead of spending 2 hours manually writing things down, I spend weeks iterating on an app instead.
+- ⚡⚡ Funner fact: This means I spend weeks learning new concepts, ideas and fundamentals. Instead of spending 2 hours manually accomplishing goals, I use code to accomplish them by spending weeks iterating on an app instead.
+
+
+## Completed Projects
+
+- 📱🗺️ **Great Museum Guide**: Android App: Created as part of beginners mobile app development.
+- 📱📝 **Quiz For Kids**: Android App: Created as part of advanced mobile app development. 
+- 📱✈️ **Fly Dream Air**: Android App: Created as part of applying project managemnent skills and ideologies.
+- 📱🗄️ [**Collectomon**](https://github.com/IndyShivy/CollectomonV2_Beta): Android App: Allows users to search, view and store information about Pokémon cards, focusing on illustrators.
+- 📱⏰ [**Countdown**](https://github.com/IndyShivy/Countdown): Android App: Allow users to create events and retrieve the time till them as days, weeks, fortnights or months.
+
+<div>
+     <img src="images/indy_banner.png" alt="countdown_logo_v2" width="800dp" height="534dp"/>
+</div> 
+
+## In-Progress Projects
+- 💻🐍 **Timesheet Entry**: A Python program using Selenium to automate timesheet entries from a database. [In-progress]
+
+
+
 
 ## ⚙ Skills
 
