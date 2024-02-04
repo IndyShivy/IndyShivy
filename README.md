@@ -1,6 +1,14 @@
 # Hello, I'm Shiva Sathyadev, aka Indy! 👋
 
-![Banner](URL_TO_YOUR_BANNER_IMAGE)
+## Current Projects
+
+- 📱🗄️ [**Collectomon**](https://github.com/IndyShivy/CollectomonV2_Beta): An android app that allows users to view and store information about Pokémon cards, focusing on illustrators.
+- 💻🐍 **Timesheet Entry**: A Python program using Selenium to automate timesheet entries from a database.
+- 📱⏰ [**Countdown**](https://github.com/IndyShivy/Countdown): An android app that allows users to create events and retrieve the time till the event as days, weeks, fortnights or months.
+
+<div>
+     <img src="images/indy_banner.png" alt="countdown_logo_v2" width="800dp" height="534dp"/>
+</div> 
 
 ## 🧑🏾 About Me
 
@@ -36,9 +44,6 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 
-
-
-
 ## 🛠️ Tools:
 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -72,15 +77,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-
-## Current Projects
-
-- 📱 [**Collectomon**](https://github.com/IndyShivy/CollectomonV2_Beta): An android app that allows users to view and store information about Pokémon cards, focusing on illustrators.
-- 🐍 **Timesheet Entry**: A Python program using Selenium to automate timesheet entries from a database.
-
 
 ## My Work
 
