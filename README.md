@@ -20,7 +20,7 @@
 
 - 📱🗺️ **Great Museum Guide**: Android App: Created as part of beginners mobile app development.
 - 📱📝 **Quiz For Kids**: Android App: Created as part of advanced mobile app development. 
-- 📱✈️ **Fly Dream Air**: Android App: Created as part of applying project managemnent skills and ideologies.
+- 📱✈️ **Fly Dream Air**: Android App: Created as part of applying project management skills and ideologies.
 - 📱🗄️ [**Collectomon**](https://github.com/IndyShivy/CollectomonV2_Beta): Android App: Allows users to search, view and store information about Pokémon cards, focusing on illustrators.
 - 📱⏰ [**Countdown**](https://github.com/IndyShivy/Countdown): Android App: Allow users to create events and retrieve the time till them as days, weeks, fortnights or months.
 
