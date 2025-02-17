@@ -3,7 +3,7 @@
 ## 🧑🏾 About Me
 
 - 🔭 I’m currently working as an assitant tutor at the University of Wollongong
-- 🌱 I’ve graduate in CS specialising in CyberSecurity!
+- 🌱 I’ve graduated in CS specialising in CyberSecurity!
 - 💼 I enjoy pursuing passion projects!
 - 📫 How to reach me:
 
