@@ -2,7 +2,7 @@
 
 ## 🧑🏾 About Me
 
-- 🔭 I’m currently working as an assitant tutor at the University of Wollongong
+- 🔭 I’m currently working as an assistant tutor at the University of Wollongong
 - 🌱 I’ve graduated in CS specialising in CyberSecurity!
 - 💼 I enjoy pursuing passion projects!
 - 📫 How to reach me:
@@ -15,23 +15,27 @@
 
 - 🧑🏾 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy using code to solve problems I encounter in my day-to-day life.
-- ⚡⚡ Funner fact: This means I spend weeks learning new concepts, ideas and fundamentals. Instead of spending 2 hours manually accomplishing goals, I use code to accomplish them by spending weeks iterating on an app instead.
+- ⚡⚡ Funner fact: This means I spend weeks learning new concepts, ideas and fundamentals. Instead of spending 2 hours manually accomplishing goals, I use code to accomplish them by spending weeks iterating on an application instead.
 
 
 ## Completed Projects
 
-- 📱🗺️ **Great Museum Guide**: Android App: Created as part of beginners mobile app development.
-- 📱📝 **Quiz For Kids**: Android App: Created as part of advanced mobile app development. 
-- 📱✈️ **Fly Dream Air**: Android App: Created as part of applying project management skills and ideologies.
-- 📱🗄️ [**Collectomon**](https://github.com/IndyShivy/CollectomonV2_Beta): Android App: Allows users to search, view and store information about Pokémon cards, focusing on illustrators.
-- 📱⏰ [**Countdown**](https://github.com/IndyShivy/Countdown): Android App: Allow users to create events and retrieve the time till them as days, weeks, fortnights or months.
+- **Great Museum Guide**: Android App: Created as part of beginners mobile app development. 🏛️📱 
+- **Quiz For Kids**: Android App: Created as part of advanced mobile app development. 🧠🧒
+- **Fly Dream Air**: Android App: Created as part of applying project management skills and ideologies. ✈️📲
+- [**Collectomon**](https://github.com/IndyShivy/CollectomonV2_Beta): Android App: Allows users to search, view and store information about Pokémon cards, focusing on illustrators. 🗂️🎴
+- [**Countdown**](https://github.com/IndyShivy/Countdown): Android App: Allow users to create events and retrieve the time till them as days, weeks, fortnights or months. ⏳📆
+- **FoodHub**: Web App: Fullstack app created to demonstrate UI design and dashboard logic for restaurant-customer interactions. 🍽️📊 
+- **XSS Demo**: Web App: Interactive demo showcasing insecure and secure implementations of cross-site scripting attacks. 🔐💻 
+- [**ADAPT**](https://adapt-mvp.vercel.app/): Web App: Fullstack data dashboard designed to highlight aging population trends using Australian census datasets. 📊🇦🇺
+
 
 <div>
-     <img src="images/indy_banner_v2.png" alt="countdown_logo" width="1024dp" height="700dp"/>
+     <img src="images/indy_banner_v2.png" alt="countdown_logo" width="1024dp" height="660dp"/>
 </div> 
 
 ## In-Progress Projects
-- 💻🐍 **Timesheet Entry**: A Python program using Selenium to automate timesheet entries from a database. [In-progress]
+- **ss.dev**: ?? 💼🧑‍💻 
 
 
 
