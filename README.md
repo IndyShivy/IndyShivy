@@ -27,7 +27,8 @@
 - 📱⏰ [**Countdown**](https://github.com/IndyShivy/Countdown): Android App: Allow users to create events and retrieve the time till them as days, weeks, fortnights or months.
 
 <div>
-     <img src="images/indy_banner.png" alt="countdown_logo_v2" width="800dp" height="534dp"/>
+     <img src="images/indy_bannerv2.png" alt="countdown_logo" width="800dp" height="534dp"/>
+     <img src="images/indy_bannerv2.png" alt="countdown_logo_v2" width="1485dp" height="1020dp"/>
 </div> 
 
 ## In-Progress Projects
