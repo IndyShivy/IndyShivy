@@ -109,8 +109,8 @@
 
 ## My Work
 
-<a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars">
-  <img height=200 align="center" src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars" />
+<a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true">
+  <img height=200 align="center" src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true" />
 </a>
 <a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact">
   <img height=200 align="center" src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact" />
