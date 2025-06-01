@@ -109,7 +109,15 @@
 
 ## My Work
 
-![Indy's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndyShivy&show_icons=true&theme=radical)
+<a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars">
+  <img height=200 align="center" src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars" />
+</a>
+<a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact" />
+</a>
+
+
+
 
 ## Let's Connect! (Coming Soon)
 
