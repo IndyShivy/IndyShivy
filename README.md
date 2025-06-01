@@ -109,20 +109,20 @@
 
 ## My Work
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
-  <a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true">
-    <img
-      height="200"
-      src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true"
-    />
-  </a>
-  <a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact&card_width=320">
-    <img
-      height="200"
-      src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact&card_width=320"
-    />
-  </a>
-</div>
+
+<a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true">
+<img
+ height="200"
+ src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true"
+/>
+</a>
+<a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact&card_width=320">
+<img
+ height="200"
+ src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact&card_width=280"
+/>
+</a>
+
 
 
 
