@@ -1,41 +1,55 @@
 # Hello, I'm Shiva Sathyadev, aka Indy! 👋
 
-## 🧑🏾 About Me
+## 👨🏾 About Me
 
-- 🔭 I’m currently working as an assistant tutor at the University of Wollongong
-- 🌱 I’ve graduated in CS specialising in CyberSecurity!
-- 💼 I enjoy pursuing passion projects!
+- 👨🏾 Film Nerd, Tech Enthusiast, People Person, He/Him
+- 🌱 I’ve graduated in Computer Science specialising in CyberSecurity!
+- 🔭 I’m currently working as an Assistant Tutor and part of the Peer Learning Program at the University of Wollongong.
+- 💼 I enjoy pursuing projects in the realms of -> my_interests = ['Data Analysis', 'Software Engineering', 'IT', 'Cybersecurity'] !
 - 📫 How to reach me:
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-sathyadev-857927301)
      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indyshivy@gmail.com)
      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lil_indyow/)
 
- 
-
-- 🧑🏾 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy using code to solve problems I encounter in my day-to-day life.
-- ⚡⚡ Funner fact: This means I spend weeks learning new concepts, ideas and fundamentals. Instead of spending 2 hours manually accomplishing goals, I use code to accomplish them by spending weeks iterating on an application instead.
+- ⚡ Fun fact: I enjoy using code to solve problems I encounter in my day-to-day life. This means I spend weeks learning new concepts, ideas and fundamentals. Instead of spending 2 hours manually accomplishing goals, I use code to accomplish them by spending weeks iterating on an application instead.
 
 
 ## Completed Projects
 
-- **Great Museum Guide**: Android App: Created as part of beginners mobile app development. 🏛️📱 
-- **Quiz For Kids**: Android App: Created as part of advanced mobile app development. 🧠🧒
-- **Fly Dream Air**: Android App: Created as part of applying project management skills and ideologies. ✈️📲
-- [**Collectomon**](https://github.com/IndyShivy/CollectomonV2_Beta): Android App: Allows users to search, view and store information about Pokémon cards, focusing on illustrators. 🗂️🎴
-- [**Countdown**](https://github.com/IndyShivy/Countdown): Android App: Allow users to create events and retrieve the time till them as days, weeks, fortnights or months. ⏳📆
-- **FoodHub**: Web App: Fullstack app created to demonstrate UI design and dashboard logic for restaurant-customer interactions. 🍽️📊 
-- **XSS Demo**: Web App: Interactive demo showcasing insecure and secure implementations of cross-site scripting attacks. 🔐💻 
-- [**ADAPT**](https://adapt-mvp.vercel.app/): Web App: Fullstack data dashboard designed to highlight aging population trends using Australian census datasets. 📊🇦🇺
+- **Great Museum Guide** 📲 
+  Beginners’ app showcasing museum exhibits and user navigation. 🏛️
+
+- **Quiz For Kids** 📲  
+  Advanced quiz app designed to engage children with educational content. 🧠
+
+- **Fly Dream Air** 📲 
+  Ticket-booking prototype applying project-management principles. ✈️
+
+- **Collectomon** ([Repo](https://github.com/IndyShivy/CollectomonV2_Release))) 📲  
+  Search, view, and store Pokémon-card details with a focus on illustrators. 🗂️
+
+- **Countdown** ([Repo](https://github.com/IndyShivy/Countdown)) 📲  
+  Create events and track time remaining in days, weeks, fortnights, or months. ⏳
+
+- **FoodHub** 💻  
+  Full-stack dashboard for restaurant–customer interactions, demonstrating UI design and business logic. 🍽️
+
+- **XSS Demo** 💻  
+  Interactive demo highlighting insecure vs. secure cross-site scripting implementations. 🔐
+
+- **ADAPT** ([Deployed](https://adapt-mvp.vercel.app/)) 💻  
+  Data dashboard visualizing Australian aging-population trends using census datasets. 📊
 
 
 <div>
-     <img src="images/indy_banner_v2.png" alt="countdown_logo" width="1024dp" height="660dp"/>
+     <img src="images/indy_banner_v2.png" alt="countdown_logo"width="100%" height="auto"/>
 </div> 
 
 ## In-Progress Projects
-- **ss.dev**: ?? 💼🧑‍💻 
+- **sS.dev** 💻 
+  ???. 💼👨🏾
+
 
 
 
