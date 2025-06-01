@@ -110,16 +110,15 @@
 ## My Work
 
 
-<a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=280px">
+<a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=460px">
 <img
- height="200"
- src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=280px"
+ src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=460px"
 />
 </a>
-<a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact&card_width=120px">
+<a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact">
 <img
- height="200"
- src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact&card_width=120px"
+ height="170"
+ src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact"
 />
 </a>
 
