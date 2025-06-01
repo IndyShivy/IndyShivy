@@ -17,28 +17,28 @@
 
 ## Completed Projects
 
-- **Great Museum Guide** 📲 
+- **Great Museum Guide** 📲  
   Beginners’ app showcasing museum exhibits and user navigation. 🏛️
 
-- **Quiz For Kids** 📲  
+- **Quiz For Kids** 📲   
   Advanced quiz app designed to engage children with educational content. 🧠
 
-- **Fly Dream Air** 📲 
+- **Fly Dream Air** 📲  
   Ticket-booking prototype applying project-management principles. ✈️
 
-- **Collectomon** ([Repo](https://github.com/IndyShivy/CollectomonV2_Release))) 📲  
+- **Collectomon** ([Repo](https://github.com/IndyShivy/CollectomonV2_Release))) 📲   
   Search, view, and store Pokémon-card details with a focus on illustrators. 🗂️
 
-- **Countdown** ([Repo](https://github.com/IndyShivy/Countdown)) 📲  
+- **Countdown** ([Repo](https://github.com/IndyShivy/Countdown)) 📲   
   Create events and track time remaining in days, weeks, fortnights, or months. ⏳
 
-- **FoodHub** 💻  
+- **FoodHub** 💻   
   Full-stack dashboard for restaurant–customer interactions, demonstrating UI design and business logic. 🍽️
 
-- **XSS Demo** 💻  
+- **XSS Demo** 💻   
   Interactive demo highlighting insecure vs. secure cross-site scripting implementations. 🔐
 
-- **ADAPT** ([Deployed](https://adapt-mvp.vercel.app/)) 💻  
+- **ADAPT** ([Deployed](https://adapt-mvp.vercel.app/)) 💻   
   Data dashboard visualizing Australian aging-population trends using census datasets. 📊
 
 
