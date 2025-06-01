@@ -14,6 +14,19 @@
 
 - ⚡ Fun fact: I enjoy using code to solve problems I encounter in my day-to-day life. This means I spend weeks learning new concepts, ideas and fundamentals. Instead of spending 2 hours manually accomplishing goals, I use code to accomplish them by spending weeks iterating on an application instead.
 
+## My Work
+
+<a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=460px">
+<img
+ src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=460px"
+/>
+</a>
+<a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact">
+<img
+ height="170"
+ src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact"
+/>
+</a>
 
 ## Completed Projects
 
@@ -107,20 +120,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## My Work
-
-
-<a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=460px">
-<img
- src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=460px"
-/>
-</a>
-<a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact">
-<img
- height="170"
- src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact"
-/>
-</a>
 
 
 
