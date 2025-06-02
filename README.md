@@ -16,17 +16,23 @@
 
 ## Stats
 
-<a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=500px">
-<img
- src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=500px"
-/>
-</a>
-<a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact">
-<img
- height="170"
- src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact"
-/>
-</a>
+<div align="center">
+  <a href="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=500px">
+    <img
+      src="https://github-readme-stats-five-rose-16.vercel.app/api?username=IndyShivy&theme=dark&show_icons=true&hide=issues,stars&include_all_commits=true&card_width=500px"
+      alt="GitHub Stats"
+    />
+  </a>
+  
+  <a href="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact">
+    <img
+      height="170"
+      src="https://github-readme-stats-five-rose-16.vercel.app/api/top-langs/?username=IndyShivy&theme=dark&layout=compact"
+      alt="Top Languages"
+    />
+  </a>
+</div>
+
 
 ## Completed Projects
 
