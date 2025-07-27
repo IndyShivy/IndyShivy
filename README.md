@@ -10,7 +10,6 @@
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-sathyadev-857927301)
      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indyshivy@gmail.com)
-     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lil_indyow/)
 
 - ⚡ Fun fact: I enjoy using code to solve problems I encounter in my day-to-day life. This means I spend weeks learning new concepts, ideas and fundamentals. Instead of spending 2 hours manually accomplishing goals, I use code to accomplish them by spending weeks iterating on an application instead.
 
